@@ -1,0 +1,14 @@
+tplt=/Users/wale/tplt CD=. filter="*" {
+ Makefile
+ tplt.c
+ tplt_holder.c
+ tplt_visitor.c
+ tplt_visitor_ops_implement.c
+ tplt.h
+ tplt_holder.h
+ tplt_include.h
+ tplt_internal.h
+ tplt_visitor.h
+ tplt_visitor_ops.h
+ tplt_visitor_ops_implement.h
+}
